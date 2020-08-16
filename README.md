@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://media.giphy.com/media/26FPOFusQUOKpnXTG/giphy.gif =width:100%)
+![](https://media.giphy.com/media/26FPOFusQUOKpnXTG/giphy.gif =100%)
 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org "Rust Programming Language")
 
