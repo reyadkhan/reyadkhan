@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)
 
-- 🌱 I’m currently learning ![Rust](https://www.rust-lang.org "Rust Programming Language")
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org "Rust Programming Language")
 
 <!--
 **reyadkhan/reyadkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
