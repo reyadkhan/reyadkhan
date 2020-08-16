@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)
+
 <!--
 **reyadkhan/reyadkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
