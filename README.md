@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/26FPOFusQUOKpnXTG/giphy.gif" width="100%">
 
 
-- 📫 Visit my resume [here](https://reyadkhan.github.io "Reyad Khan")
+- 📫 Visit my CV [here](https://reyadkhan.github.io "Reyad Khan")
 <!-- 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org "Rust Programming Language")
 -->
