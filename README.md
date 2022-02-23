@@ -4,9 +4,7 @@
 
 
 - 📫 Visit my CV [here](https://reyadkhan.github.io "Reyad Khan")
-<!-- 
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org "Rust Programming Language")
--->
+- 🌱 I’m currently learning [React](https://reactjs.org "React library")
 
 <!--
 **reyadkhan/reyadkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
