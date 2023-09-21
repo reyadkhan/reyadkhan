@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/26FPOFusQUOKpnXTG/giphy.gif" width="100%">
 
 
-- 📫 Visit my CV [here](https://reyadkhan.github.io "Reyad Khan")
+<!-- - 📫 Visit my CV [here](https://reyadkhan.github.io "Reyad Khan") -->
 <!-- - 🌱 I’m currently learning [React](https://reactjs.org "React library")-->
 
 <!--
